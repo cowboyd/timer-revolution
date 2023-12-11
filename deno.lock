@@ -3,7 +3,8 @@
   "packages": {
     "specifiers": {
       "npm:@types/hast@^3.0.0": "npm:@types/hast@3.0.3",
-      "npm:hast-util-to-html@9.0.0": "npm:hast-util-to-html@9.0.0"
+      "npm:hast-util-to-html@9.0.0": "npm:hast-util-to-html@9.0.0",
+      "npm:snabbdom@3.5.1": "npm:snabbdom@3.5.1"
     },
     "npm": {
       "@types/hast@3.0.3": {
@@ -190,6 +191,10 @@
       },
       "property-information@6.4.0": {
         "integrity": "sha512-9t5qARVofg2xQqKtytzt+lZ4d1Qvj8t5B8fEwXK6qOfgRLgH/b13QlgEyDh033NOS31nXeFbYv7CLUDG1CeifQ==",
+        "dependencies": {}
+      },
+      "snabbdom@3.5.1": {
+        "integrity": "sha512-wHMNIOjkm/YNE5EM3RCbr/+DVgPg6AqQAX1eOxO46zYNvCXjKP5Y865tqQj3EXnaMBjkxmQA5jFuDpDK/dbfiA==",
         "dependencies": {}
       },
       "space-separated-tokens@2.0.2": {
